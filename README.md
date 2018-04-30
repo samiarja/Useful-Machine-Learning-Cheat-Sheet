@@ -3,5 +3,7 @@ These sheat sheet, represent all the Neural Network Architecture with its graphs
 
 
 <p align="center">
-  <img https://github.com/samiarja/Useful-Machine-Learning-Cheat-Sheet/blob/master/Keras_Cheat_Sheet_Python.pdf/>
+  <img src=https://github.com/samiarja/Useful-Machine-Learning-Cheat-Sheet/blob/master/Keras_Cheat_Sheet_Python.pdf/>
 </p>
+<br>
+<br>
