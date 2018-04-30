@@ -3,5 +3,5 @@ These sheat sheet, represent all the Neural Network Architecture with its graphs
 
 
 <p align="center">
-  <img Keras_Cheat_Sheet_Python.pdf/>
+  <img src=Keras_Cheat_Sheet_Python.pdf/>
 </p>
