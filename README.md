@@ -27,7 +27,7 @@ These sheat sheet, represent all the Neural Network Architecture with its graphs
 **8.** ![Scipy]("https://github.com/samiarja/Useful-Machine-Learning-Cheat-Sheet/blob/master/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf")
 <br>
 
-**9.** ![Sklearn]("https://github.com/samiarja/Useful-Machine-Learning-Cheat-Sheet/blob/master/scikit-learn algorithms.PNG")
+**9.** ![Sklearn]("https://github.com/samiarja/Useful-Machine-Learning-Cheat-Sheet/blob/master/scikit-learn-algorithms.PNG")
 <br>
 
 
